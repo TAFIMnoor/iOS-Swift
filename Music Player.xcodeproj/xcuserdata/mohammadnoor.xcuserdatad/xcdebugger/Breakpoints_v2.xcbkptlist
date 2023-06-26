@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E9B018D3-0D7D-413E-80E5-CCCC59067873"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47271B66-4F16-4D13-9E33-152E51A81461"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getAlbums()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47271B66-4F16-4D13-9E33-152E51A81461 - 32a183eb7ec6d13a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "47271B66-4F16-4D13-9E33-152E51A81461 - 32a183eb7ec6d13a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C1E93DE-1928-4B7B-B506-471A16CAB331"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "parseJsonData(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFEFC99C-1AA4-4355-921C-D1A6551F2778"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "parseJsonData(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getAlbums()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - df9d281b289dcee4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.Model.getAlbums() -&gt; ()"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - d9b36f681553e8c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; ()"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - 9ecf6ce60ab86e42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - 32a183eb7ec6d6e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - 9ecf6ce60ab86e80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1056">
+               </Location>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - 9ecf6ce60ab86e80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - 32a183eb7ec6d6e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - 9ecf6ce60ab86e80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "2A4B65D7-1E1D-4D2B-A315-D63899FC1AE0 - 32a183eb7ec6d6e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C34D40DA-3C49-496B-9BA3-2A03F4E1FA14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getAlbums()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C34D40DA-3C49-496B-9BA3-2A03F4E1FA14 - 32a183eb7ec6d097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "C34D40DA-3C49-496B-9BA3-2A03F4E1FA14 - 32a183eb7ec6d097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "C34D40DA-3C49-496B-9BA3-2A03F4E1FA14 - 32a183eb7ec6d097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "C34D40DA-3C49-496B-9BA3-2A03F4E1FA14 - 32a183eb7ec6d097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "C34D40DA-3C49-496B-9BA3-2A03F4E1FA14 - 32a183eb7ec6d097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "C34D40DA-3C49-496B-9BA3-2A03F4E1FA14 - 32a183eb7ec6d097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

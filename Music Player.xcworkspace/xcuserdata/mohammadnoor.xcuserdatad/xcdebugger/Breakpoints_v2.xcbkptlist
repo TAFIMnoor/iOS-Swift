@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F232FE8B-23B4-4967-A93C-118FDC7695AB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF2FE6CD-ACBD-480D-A2AF-B8843D04DDA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getAlbums()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF2FE6CD-ACBD-480D-A2AF-B8843D04DDA2 - 32a183eb7ec6d38f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "2432">
+               </Location>
+               <Location
+                  uuid = "CF2FE6CD-ACBD-480D-A2AF-B8843D04DDA2 - 32a183eb7ec6d38f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Music_Player.Model.getAlbums() -&gt; Music_Player.ResponseData"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "2664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AAA58D0-04FF-437A-AA85-C79069BD12B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getAlbums()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D5AD9DF-8FAA-4065-9890-B2C63ED1A430"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/SongViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D5AD9DF-8FAA-4065-9890-B2C63ED1A430 - 47752b1a93ed50b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "4D5AD9DF-8FAA-4065-9890-B2C63ED1A430 - 47752b1a93ed5054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69F6B3F5-F845-4585-BDD2-91072FF852B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/SongViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "69F6B3F5-F845-4585-BDD2-91072FF852B9 - 47752b1a93ed5339"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "69F6B3F5-F845-4585-BDD2-91072FF852B9 - 47752b1a93ed50d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "69F6B3F5-F845-4585-BDD2-91072FF852B9 - 47752b1a93ed5339"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E74FB91C-E97C-4A46-8146-604F3AFC17BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/SongViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E74FB91C-E97C-4A46-8146-604F3AFC17BD - 47752b1a93ed50b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "E74FB91C-E97C-4A46-8146-604F3AFC17BD - 47752b1a93ed50b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B5F7876-AE5B-4688-9EB0-5B75D1464E4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/SongViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "playSong(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B5F7876-AE5B-4688-9EB0-5B75D1464E4B - 506833ed8753653a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.playSong(with: Swift.String) -&gt; ()"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "6B5F7876-AE5B-4688-9EB0-5B75D1464E4B - 506833ed8753653a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.playSong(with: Swift.String) -&gt; ()"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "6B5F7876-AE5B-4688-9EB0-5B75D1464E4B - 506833ed87536505"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.playSong(with: Swift.String) -&gt; ()"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "6B5F7876-AE5B-4688-9EB0-5B75D1464E4B - 506833ed87536505"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Player.SongViewController.playSong(with: Swift.String) -&gt; ()"
+                  moduleName = "Music Player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Music-Player/Music%20Player/SongViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "273B6E78-068F-468D-86AD-A790449A8DC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Player/SongViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "getDestinationURL()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
