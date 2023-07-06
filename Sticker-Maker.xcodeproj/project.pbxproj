@@ -7,15 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		236BA362A8468E04BEAAC100 /* Pods_Sticker_Maker.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22DB56D2EEBE34E40CF9D35D /* Pods_Sticker_Maker.framework */; };
+		6D29B63E2A56B51F00A6156D /* stickerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D29B63D2A56B51F00A6156D /* stickerTableViewCell.swift */; };
 		6D8840D82A46D79500D0C26E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8840D72A46D79500D0C26E /* AppDelegate.swift */; };
 		6D8840DA2A46D79500D0C26E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8840D92A46D79500D0C26E /* SceneDelegate.swift */; };
 		6D8840DC2A46D79500D0C26E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8840DB2A46D79500D0C26E /* ViewController.swift */; };
 		6D8840DF2A46D79500D0C26E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D8840DD2A46D79500D0C26E /* Main.storyboard */; };
 		6D8840E12A46D79500D0C26E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D8840E02A46D79500D0C26E /* Assets.xcassets */; };
 		6D8840E42A46D79500D0C26E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D8840E22A46D79500D0C26E /* LaunchScreen.storyboard */; };
+		6D990A082A5463980087DBDB /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D990A072A5463980087DBDB /* Model.swift */; };
+		6DF3FAA82A555FC000F388DB /* DataParseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF3FAA72A555FC000F388DB /* DataParseModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		22DB56D2EEBE34E40CF9D35D /* Pods_Sticker_Maker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Sticker_Maker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6D29B63D2A56B51F00A6156D /* stickerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickerTableViewCell.swift; sourceTree = "<group>"; };
 		6D8840D42A46D79500D0C26E /* Sticker-Maker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sticker-Maker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D8840D72A46D79500D0C26E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6D8840D92A46D79500D0C26E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +30,10 @@
 		6D8840E02A46D79500D0C26E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D8840E32A46D79500D0C26E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D8840E52A46D79500D0C26E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6D990A072A5463980087DBDB /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		6DF3FAA72A555FC000F388DB /* DataParseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataParseModel.swift; sourceTree = "<group>"; };
+		8C7491B508FA4331134BA3E5 /* Pods-Sticker-Maker.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sticker-Maker.debug.xcconfig"; path = "Target Support Files/Pods-Sticker-Maker/Pods-Sticker-Maker.debug.xcconfig"; sourceTree = "<group>"; };
+		A32D78A3E7B5B73E987719B8 /* Pods-Sticker-Maker.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sticker-Maker.release.xcconfig"; path = "Target Support Files/Pods-Sticker-Maker/Pods-Sticker-Maker.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +41,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				236BA362A8468E04BEAAC100 /* Pods_Sticker_Maker.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +53,8 @@
 			children = (
 				6D8840D62A46D79500D0C26E /* Sticker-Maker */,
 				6D8840D52A46D79500D0C26E /* Products */,
+				7B4BB713F937079809B24623 /* Pods */,
+				94E98DC1DC158459925C9A78 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -63,8 +76,28 @@
 				6D8840E02A46D79500D0C26E /* Assets.xcassets */,
 				6D8840E22A46D79500D0C26E /* LaunchScreen.storyboard */,
 				6D8840E52A46D79500D0C26E /* Info.plist */,
+				6D990A072A5463980087DBDB /* Model.swift */,
+				6DF3FAA72A555FC000F388DB /* DataParseModel.swift */,
+				6D29B63D2A56B51F00A6156D /* stickerTableViewCell.swift */,
 			);
 			path = "Sticker-Maker";
+			sourceTree = "<group>";
+		};
+		7B4BB713F937079809B24623 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8C7491B508FA4331134BA3E5 /* Pods-Sticker-Maker.debug.xcconfig */,
+				A32D78A3E7B5B73E987719B8 /* Pods-Sticker-Maker.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		94E98DC1DC158459925C9A78 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				22DB56D2EEBE34E40CF9D35D /* Pods_Sticker_Maker.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +107,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6D8840E82A46D79500D0C26E /* Build configuration list for PBXNativeTarget "Sticker-Maker" */;
 			buildPhases = (
+				523ABFB96DD63ABA8889ADDC /* [CP] Check Pods Manifest.lock */,
 				6D8840D02A46D79500D0C26E /* Sources */,
 				6D8840D12A46D79500D0C26E /* Frameworks */,
 				6D8840D22A46D79500D0C26E /* Resources */,
+				037146E4BCE172CF3CBF1A79 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -133,14 +168,59 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		037146E4BCE172CF3CBF1A79 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Sticker-Maker/Pods-Sticker-Maker-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Sticker-Maker/Pods-Sticker-Maker-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Sticker-Maker/Pods-Sticker-Maker-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		523ABFB96DD63ABA8889ADDC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Sticker-Maker-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		6D8840D02A46D79500D0C26E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				6D8840DC2A46D79500D0C26E /* ViewController.swift in Sources */,
+				6DF3FAA82A555FC000F388DB /* DataParseModel.swift in Sources */,
 				6D8840D82A46D79500D0C26E /* AppDelegate.swift in Sources */,
+				6D29B63E2A56B51F00A6156D /* stickerTableViewCell.swift in Sources */,
 				6D8840DA2A46D79500D0C26E /* SceneDelegate.swift in Sources */,
+				6D990A082A5463980087DBDB /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +362,7 @@
 		};
 		6D8840E92A46D79500D0C26E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C7491B508FA4331134BA3E5 /* Pods-Sticker-Maker.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -310,6 +391,7 @@
 		};
 		6D8840EA2A46D79500D0C26E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A32D78A3E7B5B73E987719B8 /* Pods-Sticker-Maker.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

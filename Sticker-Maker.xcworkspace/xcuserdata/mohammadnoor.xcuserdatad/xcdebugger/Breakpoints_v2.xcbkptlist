@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "80741F79-765E-41AC-93C4-6E6DF6AA0726"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F30E1E2-A9FE-4DE1-AEDB-20F65E2C0F2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sticker-Maker/DataParseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getAllCategories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACFFD69D-14D1-4CED-A865-CE02E3FBF60C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sticker-Maker/DataParseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getAllCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACFFD69D-14D1-4CED-A865-CE02E3FBF60C - 14f3b3cf5fc07f30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4924">
+               </Location>
+               <Location
+                  uuid = "ACFFD69D-14D1-4CED-A865-CE02E3FBF60C - 14f3b3cf5fc07f30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4800">
+               </Location>
+               <Location
+                  uuid = "ACFFD69D-14D1-4CED-A865-CE02E3FBF60C - 14f3b3cf5fc07f30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4636">
+               </Location>
+               <Location
+                  uuid = "ACFFD69D-14D1-4CED-A865-CE02E3FBF60C - 14f3b3cf5fc07fee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "4696">
+               </Location>
+               <Location
+                  uuid = "ACFFD69D-14D1-4CED-A865-CE02E3FBF60C - 14f3b3cf5fc07fee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "4752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "519EB459-1512-4B83-A54F-C882B61E76D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sticker-Maker/DataParseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getAllCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "519EB459-1512-4B83-A54F-C882B61E76D8 - 938d868f98621cea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2120">
+               </Location>
+               <Location
+                  uuid = "519EB459-1512-4B83-A54F-C882B61E76D8 - 938d868f98621cea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2216">
+               </Location>
+               <Location
+                  uuid = "519EB459-1512-4B83-A54F-C882B61E76D8 - 938d868f98621cea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2240">
+               </Location>
+               <Location
+                  uuid = "519EB459-1512-4B83-A54F-C882B61E76D8 - 938d868f98621d0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1360">
+               </Location>
+               <Location
+                  uuid = "519EB459-1512-4B83-A54F-C882B61E76D8 - 14f3b3cf5fc07140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "519EB459-1512-4B83-A54F-C882B61E76D8 - 14f3b3cf5fc07140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57566F56-33E8-47C6-BFDF-811531627B18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sticker-Maker/DataParseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getAllCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 938d868f98621e75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 938d868f98621e75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 63359b2dc174fcd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 938d868f98621886"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 938d868f98621886"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 63359b2dc174fd9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 938d868f98621f1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 63359b2dc174fc58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1768">
+               </Location>
+               <Location
+                  uuid = "57566F56-33E8-47C6-BFDF-811531627B18 - 938d868f98621ed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories(completion: (Swift.Optional&lt;Swift.Array&lt;Sticker_Maker.Categories&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3D4B566-5F3B-42BE-BE06-C73FA6241652"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sticker-Maker/DataParseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getAllCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3D4B566-5F3B-42BE-BE06-C73FA6241652 - 14f3b3cf5fc07f72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "4840">
+               </Location>
+               <Location
+                  uuid = "A3D4B566-5F3B-42BE-BE06-C73FA6241652 - 14f3b3cf5fc07f30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "5100">
+               </Location>
+               <Location
+                  uuid = "A3D4B566-5F3B-42BE-BE06-C73FA6241652 - 14f3b3cf5fc07fee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "5244">
+               </Location>
+               <Location
+                  uuid = "A3D4B566-5F3B-42BE-BE06-C73FA6241652 - 14f3b3cf5fc07e6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "2356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sticker-Maker/DataParseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getAllCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1740">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1748">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1844">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1868">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1704">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+               <Location
+                  uuid = "CDE4BD7F-AF56-4254-BB4C-26085CF2C4A1 - 14f3b3cf5fc071fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3DCE64A-08FC-4D8A-92CF-FEDFB0A83A49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sticker-Maker/DataParseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getAllCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3DCE64A-08FC-4D8A-92CF-FEDFB0A83A49 - 592bbebbaf8bf9da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1520">
+               </Location>
+               <Location
+                  uuid = "D3DCE64A-08FC-4D8A-92CF-FEDFB0A83A49 - 14f3b3cf5fc07dff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "5092">
+               </Location>
+               <Location
+                  uuid = "D3DCE64A-08FC-4D8A-92CF-FEDFB0A83A49 - 592bbebbaf8bf905"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+               <Location
+                  uuid = "D3DCE64A-08FC-4D8A-92CF-FEDFB0A83A49 - 592bbebbaf8bf998"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4B21BFD-017A-4FFD-872B-7079046F364A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sticker-Maker/DataParseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getAllCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4B21BFD-017A-4FFD-872B-7079046F364A - 14f3b3cf5fc07f8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1940">
+               </Location>
+               <Location
+                  uuid = "E4B21BFD-017A-4FFD-872B-7079046F364A - 14f3b3cf5fc07f8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sticker_Maker.DataParseModel.getAllCategories() -&gt; Swift.Array&lt;Sticker_Maker.Categories&gt;"
+                  moduleName = "Sticker-Maker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnoor/Desktop/Sticker-Maker/Sticker-Maker/DataParseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1928">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
