@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="CameraDemoPro" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fGm-xT-ypo">
+                                <rect key="frame" x="143.66666666666666" y="366" width="105.66666666666666" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="AVCapture">
+                                    <color key="baseBackgroundColor" systemColor="systemTealColor"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="avCaptureButtonTap:" destination="BYZ-38-t0r" eventType="touchUpInside" id="h1o-E8-DMY"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Md-sG-Nqc">
+                                <rect key="frame" x="129.66666666666669" y="436" width="133.66666666666669" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="UiImagePicker">
+                                    <color key="baseBackgroundColor" systemColor="systemTealColor"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="imagePickerTap:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZgK-Cx-Dij"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="2Md-sG-Nqc" firstAttribute="centerX" secondItem="fGm-xT-ypo" secondAttribute="centerX" id="7jr-FB-mqg"/>
+                            <constraint firstItem="fGm-xT-ypo" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="307" id="NjU-hE-pmq"/>
+                            <constraint firstItem="fGm-xT-ypo" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ia4-zT-b4n"/>
+                            <constraint firstItem="2Md-sG-Nqc" firstAttribute="top" secondItem="fGm-xT-ypo" secondAttribute="bottom" constant="35" id="jmJ-SM-d5y"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="AvCaptureButton" destination="fGm-xT-ypo" id="kJJ-sJ-kfM"/>
+                        <outlet property="imagePickerButton" destination="2Md-sG-Nqc" id="Ldb-dj-5rp"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="48" y="-2"/>
+        </scene>
+        <!--Av Capture View Controller-->
+        <scene sceneID="Ezr-eX-Zpn">
+            <objects>
+                <viewController storyboardIdentifier="AvCaptureViewController" id="OYo-xF-fU2" customClass="AvCaptureViewController" customModule="CameraDemoPro" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="BFj-vO-mgj">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KI7-Ra-Rx8">
+                                <rect key="frame" x="171.66666666666666" y="667" width="49.666666666666657" height="34.333333333333371"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="gray" image="circle.fill" catalog="system">
+                                    <color key="baseForegroundColor" systemColor="systemOrangeColor"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="capturePhotoTap:" destination="OYo-xF-fU2" eventType="touchUpInside" id="kkF-my-8HG"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bae-Pb-PS0">
+                                <rect key="frame" x="330.66666666666669" y="85" width="46.333333333333314" height="34.333333333333343"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="tinted" image="xmark" catalog="system">
+                                    <color key="baseForegroundColor" systemColor="systemOrangeColor"/>
+                                    <color key="baseBackgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="dismissButtonTap:" destination="OYo-xF-fU2" eventType="touchUpInside" id="b1X-fH-yqx"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="D0e-uw-KUP"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="bae-Pb-PS0" firstAttribute="top" secondItem="D0e-uw-KUP" secondAttribute="top" constant="26" id="4UX-aq-9ZF"/>
+                            <constraint firstItem="bae-Pb-PS0" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="D0e-uw-KUP" secondAttribute="leading" symbolic="YES" id="OfP-P5-FVH"/>
+                            <constraint firstItem="KI7-Ra-Rx8" firstAttribute="centerX" secondItem="BFj-vO-mgj" secondAttribute="centerX" id="Xkx-6O-Mw0"/>
+                            <constraint firstItem="KI7-Ra-Rx8" firstAttribute="top" secondItem="D0e-uw-KUP" secondAttribute="top" constant="608" id="djn-Ag-0Od"/>
+                            <constraint firstItem="bae-Pb-PS0" firstAttribute="trailing" secondItem="BFj-vO-mgj" secondAttribute="trailingMargin" id="vR6-7R-VWR"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="capturePhoto" destination="KI7-Ra-Rx8" id="b4e-UE-ViT"/>
+                        <outlet property="dismissButton" destination="bae-Pb-PS0" id="tKf-xe-Ij0"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kRv-5e-8Ku" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="812.97709923664115" y="14.788732394366198"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="circle.fill" catalog="system" width="128" height="123"/>
+        <image name="xmark" catalog="system" width="128" height="113"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemOrangeColor">
+            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemTealColor">
+            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
